@@ -1,0 +1,32 @@
+{
+  "name": "object-property-natural-sort",
+  "version": "0.0.1",
+  "description": "Sort an array of objects based on a certain property supplied in path form",
+  "main": "property-sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bill4Time/object-property-natural-sort.git"
+  },
+  "keywords": [
+    "natural",
+    "sort",
+    "smart",
+    "property",
+    "based",
+    "array",
+    "sorting"
+  ],
+  "author": "khous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bill4Time/object-property-natural-sort/issues"
+  },
+  "homepage": "https://github.com/Bill4Time/object-property-natural-sort",
+  "dependencies": {
+    "javascript-natural-sort": "~0.7.0",
+    "deep-access": "0.0.1"
+  }
+}
