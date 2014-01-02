@@ -1,6 +1,6 @@
 {
   "name": "object-property-natural-sort",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sort an array of objects based on a certain property supplied in path form",
   "main": "property-sort.js",
   "scripts": {
